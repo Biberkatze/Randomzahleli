@@ -75,7 +75,7 @@ Total:
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
+| I    |Programm offen|   y     |      ERROR        |         ERROR        |
 | ...  |              |         |                   |                      |
 
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
