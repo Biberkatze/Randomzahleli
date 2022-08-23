@@ -33,6 +33,7 @@ Mann muss eine Zahl erraten
 | ...  |               |         |                    |
 
 ### 1.4 Diagramme
+<img width="1056" alt="Bildschirmfoto 2022-08-23 um 10 09 27 AM" src="https://user-images.githubusercontent.com/89131189/186106749-f83b4b7f-edd9-4067-bf30-4b2bde82c3b9.png">
 
 ## 2 Planen
 
