@@ -83,4 +83,4 @@ Total:
 
 ## 6 Auswerten
 
-https://github.com/Biberkatze/Lernbericht
+[https://github.com/Biberkatze/Lernbericht](https://github.com/Biberkatze/Lernberichtli/blob/main/README.md)
